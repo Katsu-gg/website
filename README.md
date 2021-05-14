@@ -3,8 +3,8 @@
 ```json
 {
     "client": {
-        "id": "application-id", // https://discord.com/developers/applications/<application_id>/oauth2
-        "secret": "application-secret" // https://discord.com/developers/applications/<application_id>/oauth2
+        "id": "application-id",
+        "secret": "application-secret"
     }
 }
 ```
