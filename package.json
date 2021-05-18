@@ -7,6 +7,20 @@
     "build": "next build",
     "start": "next start"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Katsu-gg/website.git"
+  },
+  "keywords": [
+    "react",
+    "dashboard"
+  ],
+  "author": "apollodevv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Katsu-gg/website/issues"
+  },
+  "homepage": "https://github.com/Katsu-gg/website#readme",
   "dependencies": {
     "next": "10.2.0",
     "next-auth": "^3.22.0",
